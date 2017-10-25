@@ -22,7 +22,7 @@ We approached this design with a mobile first mindset. Then we used media querie
 ## Change Log
 10-25-17 9:00AM - We started working on the lab and created our directory structure with Catherine as driver and Adrian as navigator. We then continued to complete all TODO and all COMMENT items in the lab.
 
-10-25-17 11:20AM - We then switched to Adrian as driver and Catherine as navigator to complete the README.md file and make coreections to the CSS files.  
+10-25-17 11:20AM - We then switched to Adrian as driver and Catherine as navigator to complete the README.md file and make corrections to the CSS files.  
 
 ## Credits and Collaborations
 * Code Fellows - https://www.codefellows.org/
