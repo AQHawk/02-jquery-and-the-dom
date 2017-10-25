@@ -58,7 +58,6 @@
 
   img {
     float: right;
-    /* this looks so bad omg */
   }
 
 }
@@ -72,4 +71,8 @@
 .article-body {
   padding: 0;
   margin-bottom: 2em;
+}
+
+.template {
+  display: none;
 }
